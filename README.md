@@ -1,10 +1,12 @@
 # datascience-course3-project
+Getting and Cleaning Data. Course Project
 
 ## Files in this repository
 
-    README.md -- information about files 
-    CodeBook.md -- codebook describing the variables, the data and transformations
-    run_analysis.R -- script for performing an analysis
+- README.md - information about files 
+- CodeBook.md - codebook describing the variables, the data and transformations
+- run_analysis.R - script for performing an analysis
+
 
 
 ## run_analysis.R
@@ -23,6 +25,3 @@ Script does the following:
 5. Appropriately labels the data set with descriptive variable names.
 6. From the data set in previous step, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 7. Saves tidy data set to "UCI HAR Dataset" folder as "tidydata.txt"
-
-
-
