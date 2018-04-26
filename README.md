@@ -6,6 +6,7 @@
     CodeBook.md -- codebook describing the variables, the data and transformations
     run_analysis.R -- script for performing an analysis
 
+
 ## run_analysis.R
 
 This is the main script that is called to perform the cleaning and tidying of the dataset as described in the task. 
